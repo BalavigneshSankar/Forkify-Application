@@ -1,4 +1,4 @@
-# Forkkify-Application
+# Forkify-Application
 
 ## About?
 
